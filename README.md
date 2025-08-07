@@ -121,10 +121,10 @@ python info_collector.py -t example.com --threads 100 -o results.json --dict lar
 ### API配置
 工具内置了以下API配置：
 - **FOFA**: 
-  - 邮箱: li1u888@163.com
-  - API Key: 80cb74dd36424e570a36c19a7601b8a0
+  - 邮箱: xxx@.com
+  - API Key: xxxxxxxx
 - **Quake**: 
-  - API Key: 42203ab4-20e1-404e-8ca7-448f9e852a84
+  - API Key: xxxxxxxxx
 
 如需修改API配置，请编辑 `info_collector.py` 文件中的相应部分。
 
@@ -289,3 +289,4 @@ python run.py --install
 ---
 
 **Made with ❤️ for Security Researchers**
+
